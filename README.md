@@ -1,5 +1,7 @@
 # ARIMA-model
  Forecasting Malaysia COVID-19 Daily Cases Using ARIMA Model. ARIMA stands for Autoregressive Integrated Moving Average Model. It belongs to a class of models that explains a given time series based on its own past values. ARIMA Models are specified by three order parameters: (p, d, q). p is the order of the AR (autoregression) term, q is the order of the MA (Moving Average) term and d is the number of differencing required to make the time series stationary
+ 
+This is one of my tasks as a research assistant. I had to forecast Malaysia's daily cases of COVID-19 in Malaysia using Python. I managed data of COVID-19 during my internship and the daily cases data is from the official Facebook of the Ministry of Health Malaysia. The data from 26/01/2020 until 11/07/2021.
 
 # 1) Plot Malaysia's daily cases data
 * I plotted daily cases data to check for the trend and seasonality
